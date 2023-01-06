@@ -1,0 +1,13 @@
+.singup-body {
+    padding: 3rem 0px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
